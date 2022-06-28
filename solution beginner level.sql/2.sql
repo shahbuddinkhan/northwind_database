@@ -1,0 +1,4 @@
+SELECT 
+category_name,
+descriptioncustomer_demographics
+FROM categories;
